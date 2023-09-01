@@ -1,0 +1,54 @@
+.location{
+
+}
+.location>h5{
+    color:rgb(0,0,0);
+    font-weight: 800;
+    margin-bottom: 6px;
+    font-size: 18px;
+}
+.location>p{
+    margin: 0px;
+    font-size: 13px;
+    font-weight: 400;
+}
+.vertical-line{
+    height: 55%;
+    border-left: 2px solid gray;
+}
+.search-div{
+
+    padding: 0px 12px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 12px;
+    background-color: rgb(248, 232, 248);
+    color: rgb(130, 130,130);
+}
+.search-div>input{
+border: none;
+background-color: transparent;
+width: 40vw;
+height: 45px;
+}
+::placeholder{
+    font-size: 14px;
+    color: rgb(153,153, 153);
+}
+.my-cart{
+    background-color: #0d831e !important;
+    font-size: 14px !important;
+}
+categoriey-section.my-container{
+    margin: auto;
+   
+}
+.my-list{
+    white-space: nowrap;
+    overflow-x: scroll;
+}
+.my-list>img{
+    padding-inline: 10px ;
+}
+::-webkit-scrollbar{
+    display: none;
+}
